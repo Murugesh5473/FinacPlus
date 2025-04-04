@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://demoqa.com/",
+  "loginCreds": {
+    "1": {
+      "username": "Murugesh23",
+      "password": "Murugesh@123"
+    }
+  }
+}

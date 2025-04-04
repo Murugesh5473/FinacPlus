@@ -1,0 +1,13 @@
+{
+  "name": "finacPlus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Murugesh5473/FinacPlus.git",
+  "author": "Murugesh <murugeswarans@tekion.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  },
+  "scripts": {}
+}
